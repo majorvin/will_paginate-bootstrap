@@ -1,4 +1,4 @@
-# will_paginate-bootstrap
+# will_paginate-bootstrap blahblah
 
 [![Code Climate](https://codeclimate.com/github/bootstrap-ruby/will_paginate-bootstrap.png)](https://codeclimate.com/github/bootstrap-ruby/will_paginate-bootstrap)
 
